@@ -12,4 +12,4 @@ jobs:
           echo "hello world! I dont get it"
       - name: Now it is
         run: |
-          echo date
+           date
