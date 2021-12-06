@@ -10,5 +10,4 @@ jobs:
       - name: say hello
         run: |
           echo "hello world! I dont get it"
-        run: |
           echo "date is"
